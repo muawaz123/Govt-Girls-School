@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Govt-Girls-School/Govt-Girls-School/static/css/main.ed082a17.css",
-    "main.js": "/Govt-Girls-School/Govt-Girls-School/static/js/main.57d58554.js",
-    "static/js/453.ecad6f21.chunk.js": "/Govt-Girls-School/Govt-Girls-School/static/js/453.ecad6f21.chunk.js",
-    "static/media/dark-logo.png": "/Govt-Girls-School/Govt-Girls-School/static/media/dark-logo.d0a5a9bab06c604dc467.png",
-    "static/media/Science Teacher.jpg": "/Govt-Girls-School/Govt-Girls-School/static/media/Science Teacher.ea2286740daba297f093.jpg",
-    "static/media/light-logo.png": "/Govt-Girls-School/Govt-Girls-School/static/media/light-logo.65bed14b889acb878475.png",
-    "static/media/Math Teacher.jpg": "/Govt-Girls-School/Govt-Girls-School/static/media/Math Teacher.ab6bdb7d53da7a9de86d.jpg",
-    "static/media/image5.jpg": "/Govt-Girls-School/Govt-Girls-School/static/media/image5.4c0784d734d1cc797e9e.jpg",
-    "static/media/English Teacher.jpg": "/Govt-Girls-School/Govt-Girls-School/static/media/English Teacher.abf8b7bbe90741cb8f0e.jpg",
-    "static/media/image8.jpg": "/Govt-Girls-School/Govt-Girls-School/static/media/image8.0704c5ea2024a673579a.jpg",
-    "static/media/image2.jpg": "/Govt-Girls-School/Govt-Girls-School/static/media/image2.5d738d6866cdf76bb589.jpg",
-    "static/media/image3.jpg": "/Govt-Girls-School/Govt-Girls-School/static/media/image3.421fec1be1d718667fd5.jpg",
-    "static/media/image4.jpg": "/Govt-Girls-School/Govt-Girls-School/static/media/image4.2f780987ab74310d6638.jpg",
-    "index.html": "/Govt-Girls-School/Govt-Girls-School/index.html",
-    "main.ed082a17.css.map": "/Govt-Girls-School/Govt-Girls-School/static/css/main.ed082a17.css.map",
-    "main.57d58554.js.map": "/Govt-Girls-School/Govt-Girls-School/static/js/main.57d58554.js.map",
-    "453.ecad6f21.chunk.js.map": "/Govt-Girls-School/Govt-Girls-School/static/js/453.ecad6f21.chunk.js.map"
+    "main.css": "/Govt-Girls-School/static/css/main.ed082a17.css",
+    "main.js": "/Govt-Girls-School/static/js/main.5c9de268.js",
+    "static/js/453.ecad6f21.chunk.js": "/Govt-Girls-School/static/js/453.ecad6f21.chunk.js",
+    "static/media/dark-logo.png": "/Govt-Girls-School/static/media/dark-logo.d0a5a9bab06c604dc467.png",
+    "static/media/Science Teacher.jpg": "/Govt-Girls-School/static/media/Science Teacher.ea2286740daba297f093.jpg",
+    "static/media/light-logo.png": "/Govt-Girls-School/static/media/light-logo.65bed14b889acb878475.png",
+    "static/media/Math Teacher.jpg": "/Govt-Girls-School/static/media/Math Teacher.ab6bdb7d53da7a9de86d.jpg",
+    "static/media/image5.jpg": "/Govt-Girls-School/static/media/image5.4c0784d734d1cc797e9e.jpg",
+    "static/media/English Teacher.jpg": "/Govt-Girls-School/static/media/English Teacher.abf8b7bbe90741cb8f0e.jpg",
+    "static/media/image8.jpg": "/Govt-Girls-School/static/media/image8.0704c5ea2024a673579a.jpg",
+    "static/media/image2.jpg": "/Govt-Girls-School/static/media/image2.5d738d6866cdf76bb589.jpg",
+    "static/media/image3.jpg": "/Govt-Girls-School/static/media/image3.421fec1be1d718667fd5.jpg",
+    "static/media/image4.jpg": "/Govt-Girls-School/static/media/image4.2f780987ab74310d6638.jpg",
+    "index.html": "/Govt-Girls-School/index.html",
+    "main.ed082a17.css.map": "/Govt-Girls-School/static/css/main.ed082a17.css.map",
+    "main.5c9de268.js.map": "/Govt-Girls-School/static/js/main.5c9de268.js.map",
+    "453.ecad6f21.chunk.js.map": "/Govt-Girls-School/static/js/453.ecad6f21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed082a17.css",
-    "static/js/main.57d58554.js"
+    "static/js/main.5c9de268.js"
   ]
 }
